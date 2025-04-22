@@ -3,7 +3,6 @@
 A simple, console-based stock management system in C designed for managing products in a small retail environment. The system supports two main roles: **Admin** and **Customer**. The admin can manage the stock, while customers can view products and make purchases. The data is stored securely with encryption, ensuring that only authorized users can access and modify the stock information.
 
 ## 🔐 Admin Login
-- **Username:** `admin`
 - **Password:** `Password`
 
 ## 📦 Features
